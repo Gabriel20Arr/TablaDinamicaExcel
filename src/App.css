@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  background-color: rgb(15, 15, 34);
+  color: white;
+
+  min-height: 100vh;
+}
+
